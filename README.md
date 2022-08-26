@@ -8,4 +8,4 @@
 - 📫 How to reach me: mahadi.kaafee@gmail.com
 - ⚡ Fun fact: Rubik's cube solver
 
-<p><img align="right" src="https://github.com/KaaFee/KaaFee/blob/main/anime.jpg" height="300" width="150"></P>
+<p><img align="right" src="https://github.com/KaaFee/KaaFee/blob/main/anime.jpg" height="600" width="400"></P>
