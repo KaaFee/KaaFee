@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Rubik's cube solver
 
 <p>
-<img align="left" src="https://github.com/KaaFee/KaaFee/blob/main/coding-freak.gif" height="600" width="400">
+<img align="left" src="https://github.com/KaaFee/KaaFee/blob/main/coding-freak.gif" height="600" width="600">
 <img align="right" src="https://github.com/KaaFee/KaaFee/blob/main/anime.jpg" height="600" width="400"></P>
