@@ -10,4 +10,4 @@
 
 <p>
 <img align="left" src="https://github.com/KaaFee/KaaFee/blob/main/coding-freak.gif" height="600" width="600">
-<img align="right" src="https://github.com/KaaFee/KaaFee/blob/main/anime.jpg" height="600" width="380"></P>
+<img align="right" src="https://github.com/KaaFee/KaaFee/blob/main/ascii-1012.gif" height="600" width="300"></P>
