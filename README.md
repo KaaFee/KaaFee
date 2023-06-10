@@ -34,3 +34,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KaaFee)  
 
+## Github Contribution
+![snake gif](https://github.com/KaaFee/KaaFee/blob/output/github-contribution-grid-snake.svg)
+
